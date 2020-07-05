@@ -1,0 +1,1 @@
+这个`demo` 是 `react-redux` 库源码的手写实现代码。包括 `Provider`的实现。`@connect`装饰器的实现。以及 `useSelector`、`useDispatch` 的手写实现。此文档的用途主要是作为学习笔记，供自己以后复习。通过看源码，并实现简单的 `react-redux` 对于自己的编码水平是有一定提升的。而且能够将相关知识点贯穿起来。在这么 `demo` 中， 除了 `redux` 本身外，还用到了 `HOOK` 方法，`Context` 跨组件通信方式，以及 `HOC`等知识点。
